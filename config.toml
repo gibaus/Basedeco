@@ -131,17 +131,17 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "Learnlinux"
     name = "Apt-get"
-    url = "learnlinux/aptget/"
+    url = "tutos/learnlinux-aptget/"
     weight = 1
 
 [[menu.main]]
     parent = "Learnlinux"
     name = ".bashrc"
-    url = "learnlinux/bashrc/"
+    url = "tutos/learnlinux-bashrc/"
     weight = 2
 
 [[menu.main]]
     parent = "Learnlinux"
-    name = "test"
-    url = "tutos/test/"
+    name = "Commandes"
+    url = "tutos/learnlinux-commandes/"
     weight = 3
