@@ -111,3 +111,8 @@ pygmentsCodefencesGuessSyntax = true
     name = "About"
     url = "page/about/"
     weight = 4
+
+[[menu.main]]
+    name = "Learnlinux"
+    url = "tutos/Learnlinux/vim/"
+    weight = 5
