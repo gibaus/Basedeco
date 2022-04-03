@@ -139,3 +139,9 @@ pygmentsCodefencesGuessSyntax = true
     name = ".bashrc"
     url = "learnlinux/bashrc/"
     weight = 2
+
+[[menu.main]]
+    parent = "Learnlinux"
+    name = ".bashrc"
+    url = "learnlinux/test/"
+    weight = 3

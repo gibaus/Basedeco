@@ -1,7 +1,7 @@
 ---
 title: "apt-get"
 description: "Learn Linux"
-date: 2021-06-13
+date: 2022-04-03T14:42:04+02:00
 tags: [Linux]
 draft: False
 ---
