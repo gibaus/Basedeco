@@ -74,10 +74,15 @@ pygmentsCodefencesGuessSyntax = true
 # weibo = "username"
 # slack = "username"
 
+########## MENU - 0
+########## BLOG - 1
+
 [[menu.main]]
     name = "Blog"
     url = "blog/"
     weight = 1
+
+########## Tutos - 2
 
 [[menu.main]]
     identifier = "Tutos"
@@ -102,23 +107,35 @@ pygmentsCodefencesGuessSyntax = true
     url = "tutos/2022-01-04-learnlinux/"
     weight = 3
 
+########## Tags - 4
+
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 3
+    weight = 4
+
+########## About - 5
 
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 4
+    weight = 5
+
+########## LearnLinux - 3
 
 [[menu.main]]
     identifier = "Learnlinux"
     name = "Learnlinux"
-    weight = 5
+    weight = 3
 
 [[menu.main]]
     parent = "Learnlinux"
-    name = "vim"
-    url = "learnlinux/vim/"
-    weight = 5
+    name = "Apt-get"
+    url = "/learnlinux/aptget/"
+    weight = 1
+
+[[menu.main]]
+    parent = "Learnlinux"
+    name = ".bashrc"
+    url = "learnlinux/bashrc/"
+    weight = 2
