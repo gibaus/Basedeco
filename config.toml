@@ -99,7 +99,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "Tutos"
     name = "Linux"
-    url = "tutos/2022-01-04-Learnlinux/"
+    url = "2022-01-04-Learnlinux/"
     weight = 3
 
 [[menu.main]]
@@ -113,6 +113,12 @@ pygmentsCodefencesGuessSyntax = true
     weight = 4
 
 [[menu.main]]
+    identifier = "Learnlinux"
     name = "Learnlinux"
-    url = "tutos/Learnlinux/vim/"
+    weight = 5
+
+[[menu.main]]
+    parent = "Learnlinux"
+    name = "vim"
+    url = "Learnlinux/vim/"
     weight = 5
