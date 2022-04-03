@@ -1,18 +1,26 @@
+---
+title: ".bashrc"
+description: "Learn Linux"
+date: 2021-05-29T07:17:10Z
+tags: [Linux]
+draft: False
+---
+
 Configurer sa console avec .bashrc
 
-
-Créer des alias
+Creer des alias
 
 # enable color support of ls and also add handy aliases
+
 if [ "$TERM" != "dumb" ]; then
-    eval "`dircolors -b`"
-    alias ls='ls --color=auto'
-    #alias dir='ls --color=auto --format=vertical'
-    #alias vdir='ls --color=auto --format=long'
+eval "`dircolors -b`"
+alias ls='ls --color=auto'
+#alias dir='ls --color=auto --format=vertical'
+#alias vdir='ls --color=auto --format=long'
 fi
- 
- 
+
 # some more ls aliases
+
 #alias ll='ls -l'
 #alias la='ls -A'
 #alias l='ls -CF'

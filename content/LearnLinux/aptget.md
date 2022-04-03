@@ -3,7 +3,6 @@ title: "apt-get"
 description: "Learn Linux"
 date: 2021-05-29T07:17:10Z
 tags: [Linux]
-weight: 0
 draft: False
 ---
 

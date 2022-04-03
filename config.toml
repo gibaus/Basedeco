@@ -131,7 +131,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "Learnlinux"
     name = "Apt-get"
-    url = "/learnlinux/aptget/"
+    url = "learnlinux/aptget/"
     weight = 1
 
 [[menu.main]]

@@ -1,3 +1,11 @@
+---
+title: "Commandes"
+description: "Learn Linux"
+date: 2021-05-29T07:17:10Z
+tags: [Linux]
+draft: False
+---
+
 pwd : afficher le dossier actuel
 
 mateo21@mateo21-desktop:~$ pwd
