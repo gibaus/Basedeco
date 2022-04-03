@@ -4,11 +4,11 @@ subtitle: Why you'd want to hang out with me
 comments: false
 ---
 
-My name is The Dude. I have the following qualities:
+My name is The gibaus. I have the following qualities:
 
 - I rock a great beard
 - I'm extremely loyal to my friends
-- I like bowling
+- I like gaming and movies
 
 That rug really tied the room together.
 
