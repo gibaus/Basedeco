@@ -143,5 +143,5 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "Learnlinux"
     name = "test"
-    url = "learnlinux/test/"
+    url = "linux/test/"
     weight = 3
