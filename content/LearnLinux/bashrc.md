@@ -1,7 +1,7 @@
 ---
 title: ".bashrc"
 description: "Learn Linux"
-date: 2021-05-29T07:17:10Z
+date: 2021-06-13
 tags: [Linux]
 draft: False
 ---
