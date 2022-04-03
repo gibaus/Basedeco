@@ -120,5 +120,5 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "Learnlinux"
     name = "vim"
-    url = "Learnlinux/vim/"
+    url = "learnlinux/vim/"
     weight = 5
