@@ -104,7 +104,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "Tutos"
     name = "Linux"
-    url = "/tutos/2022-01-04-Learnlinux/"
+    url = "tutos/2022-01-04-Learnlinux/"
     weight = 3
 
 [[menu.main]]
