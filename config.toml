@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://dbx1.gitlab.io/basedeco"
 DefaultContentLanguage = "fr"
 #DefaultContentLanguage = "ja"
 title = "Basedeco"
