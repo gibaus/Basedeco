@@ -80,11 +80,6 @@ pygmentsCodefencesGuessSyntax = true
     weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "page/about/"
-    weight = 3
-
-[[menu.main]]
     identifier = "Tutos"
     name = "Tutos"
     weight = 2
@@ -111,3 +106,8 @@ pygmentsCodefencesGuessSyntax = true
     name = "Tags"
     url = "tags"
     weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 4
