@@ -93,13 +93,13 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "Tutos"
     name = "Markdown"
-    url = "tutos/2021-06-13-Markdown/"
+    url = "tutos/2021-06-13-markdown/"
     weight = 2
 
 [[menu.main]]
     parent = "Tutos"
     name = "Linux"
-    url = "2022-01-04-Learnlinux/"
+    url = "tutos/2022-01-04-learnlinux/"
     weight = 3
 
 [[menu.main]]
