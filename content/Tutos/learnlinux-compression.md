@@ -1,3 +1,11 @@
+---
+title: "Compression"
+description: "Learn Linux"
+date: 2023-05-30T14:42:04+02:00
+tags: [Linux]
+draft: False
+---
+
 tar : assembler des fichiers dans une archive
 -cvf : créer une archive tar
 -c : signifie créer une archive tar ;
