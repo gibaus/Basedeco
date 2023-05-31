@@ -148,6 +148,6 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     parent = "Learnlinux"
-    name = "Commandes"
+    name = "Compression"
     url = "tutos/learnlinux-compression/"
     weight = 4
