@@ -21,8 +21,8 @@ default:
     - apk add --update --no-cache git go
     - git submodule update --init --recursive
     - hugo mod init gitlab.com/pages/hugo
-    - hugo mod get -u https://github.com/halogenica/beautifulhugo.git
-
+    - hugo mod get -u github.com/halogenica/beautifulhugo
+  
 test:
   script:
     - hugo
