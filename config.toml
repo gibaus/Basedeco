@@ -145,3 +145,9 @@ pygmentsCodefencesGuessSyntax = true
     name = "Commandes"
     url = "tutos/learnlinux-commandes/"
     weight = 3
+
+[[menu.main]]
+    parent = "Learnlinux"
+    name = "Commandes"
+    url = "tutos/learnlinux-compression/"
+    weight = 4
